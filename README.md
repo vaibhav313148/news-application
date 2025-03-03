@@ -1,6 +1,6 @@
-# WebTV
+# news-application
 
-**WebTV** is a web-based platform for streaming TV shows and movies. This project allows users to browse, stream, and manage their content preferences.
+**news-application** is a web-based platform for streaming TV shows and movies. This project allows users to browse, stream, and manage their content preferences.
 
 ## Features
 
@@ -14,8 +14,8 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Shiv8859Sharma/WebTV.git
-   cd WebTV
+   git clone https//github.com/vaibhav313148/news-application.git
+   cd news-application
    ```
 2. Install dependencies:
    ```bash
